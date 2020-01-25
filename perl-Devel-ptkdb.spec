@@ -1,6 +1,5 @@
 %define		pdir	Devel
 %define		pnam	ptkdb
-%include	/usr/lib/rpm/macros.perl
 Summary:	Tk GUI based Perl script debugger
 Name:		perl-Devel-ptkdb
 Version:	1.233
